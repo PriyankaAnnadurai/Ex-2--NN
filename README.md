@@ -112,10 +112,14 @@ plt.show()
 ```
 
 ### OUTPUT:
-<img height=15% width=48% valign =top src="https://github.com/shalinikannan23/Ex-2--NN/assets/118656529/40828fa9-b581-47c2-b6e2-616735fbb0fe">&emsp;&emsp;&emsp;&emsp;&emsp;<img height=15% width=48% src="https://github.com/shalinikannan23/Ex-2--NN/assets/118656529/365373d6-83e7-4815-9b64-0d4dc9a332e9">
+![image](https://github.com/PriyankaAnnadurai/Ex-2--NN/assets/118351569/e6872f6d-c512-4591-b5c0-626d37c201e8)
 
+![image](https://github.com/PriyankaAnnadurai/Ex-2--NN/assets/118351569/9b9a707a-9025-4102-8a5c-61c00bb0c4a8)
 
-<img height=15% width=48% src="https://github.com/shalinikannan23/Ex-2--NN/assets/118656529/ccdb3cf2-72ed-4d54-9861-6e8c63d149af">&emsp;&emsp;&emsp;&emsp;&emsp;<img height=15% width=48% src="https://github.com/shalinikannan23/Ex-2--NN/assets/118656529/656f4591-f5f5-4485-b063-167d57f5e294">
+![image](https://github.com/PriyankaAnnadurai/Ex-2--NN/assets/118351569/2aa39cb4-71b4-4538-a7af-0a1140178cc2)
+
+![image](https://github.com/PriyankaAnnadurai/Ex-2--NN/assets/118351569/15dbc1b7-dbd5-4c3c-b3c9-ec17b0e31b15)
+
 
 
 ### RESULT:
